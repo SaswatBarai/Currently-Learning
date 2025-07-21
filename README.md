@@ -12,6 +12,8 @@ These are topics or courses I plan to start soon:
 - **Python** – *Code With Harry*
 - **Machine Learning**
 - **Framer-Motion**
+- **Web Sockets**
+- **Web RTC**
 - **Kafka**
 - **redis**
 - **Mysql**
