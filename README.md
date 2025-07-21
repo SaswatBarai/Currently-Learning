@@ -11,12 +11,10 @@ These are topics or courses I plan to start soon:
 
 - **Python** – *Code With Harry*
 - **Machine Learning**
-- **Framer-Motion**
 - **Web Sockets**
 - **Web RTC**
 - **Kafka**
 - **redis**
-- **Mysql**
 - **Grpc**
 - **Postgres**
 - **Prisma-ORM**
@@ -29,6 +27,8 @@ These are topics or courses I plan to start soon:
 ---
 
 ## 🚀 Currently Learning
+- **Mysql** 
+- **Framer-Motion** https://www.youtube.com/playlist?list=PLympUr-oxAWU43N4ZaVG1PSCHkV0kcyaK
 
 These are the topics I'm actively learning right now:
 
