@@ -10,6 +10,16 @@ This is where I keep track of what I'm learning, along with relevant resources a
 These are topics or courses I plan to start soon:
 
 - **Python** – *Code With Harry*
+- **Machine Learning**
+- **Framer Motion **
+- **Kafka**
+- **Postgres**
+- **Prisma-ORM**
+- **Microservices**
+- **GeoLocation**
+- **Nextjs**
+- **GenAi**
+- **Docker, Kubernatives , CICD Piplines , AWS**
 
 ---
 
@@ -17,8 +27,7 @@ These are topics or courses I plan to start soon:
 
 These are the topics I'm actively learning right now:
 
-- **Mastering ShadeCN**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=SjsQdfvxjL8&t=167s)
+- 
 
 ---
 
