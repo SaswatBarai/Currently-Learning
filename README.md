@@ -11,8 +11,11 @@ These are topics or courses I plan to start soon:
 
 - **Python** – *Code With Harry*
 - **Machine Learning**
-- **Framer Motion **
+- **Framer-Motion**
 - **Kafka**
+- **redis**
+- **Mysql**
+- **Grpc**
 - **Postgres**
 - **Prisma-ORM**
 - **Microservices**
